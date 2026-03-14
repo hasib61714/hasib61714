@@ -11,6 +11,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -18,14 +20,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "hasib61714",
-              "startWeekOn": 0,
-              "utcOffset": 6,
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg",
-              "type": "night-rainbow"
-            }
 
       - name: Commit & Push
         run: |
