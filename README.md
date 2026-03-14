@@ -156,6 +156,10 @@ Inventory and finance management system for hair processing business.
 </p>
 
 ---
+## ⏱ Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # 🌐 Connect With Me
 
