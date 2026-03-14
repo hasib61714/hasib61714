@@ -214,11 +214,11 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 
 <div align="center">
 
-![Cyber Security](https://img.shields.io/badge/🛡️_Cyber_Security_%26_Ethical_Hacking-Arena_Web_Security_(18_Weeks)-6E40C9?style=for-the-badge)
-![React](https://img.shields.io/badge/⚛️_React.js_Modern_Frontend-2023-61DAFB?style=for-the-badge&logoColor=black)
-![Python ML](https://img.shields.io/badge/🐍_Python_for_Data_Science_%26_ML-2024-3776AB?style=for-the-badge)
-![ML DS](https://img.shields.io/badge/🤖_Machine_Learning_%26_Data_Science-Self_Directed_2024-F7931E?style=for-the-badge)
-![FullStack](https://img.shields.io/badge/🌐_Full_Stack_Web_Development-Self_Directed_2023-339933?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/🛡️_Cyber_Security_%26_Ethical_Hacking-Arena_Web_Security_·_18_Weeks-6E40C9?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/⚛️_React.js_Modern_Frontend-Certified_2023-61DAFB?style=for-the-badge&logoColor=black)
+![Python ML](https://img.shields.io/badge/🐍_Python_for_Data_Science_%26_ML-Certified_2024-3776AB?style=for-the-badge&logoColor=white)
+![ML DS](https://img.shields.io/badge/🤖_Machine_Learning_%26_Data_Science-Self_Directed_2024-F7931E?style=for-the-badge&logoColor=white)
+![FullStack](https://img.shields.io/badge/🌐_Full_Stack_Web_Development-Self_Directed_2023-339933?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -231,7 +231,7 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hasib61714/hasib61714/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hasib61714/hasib61714/output/snake.svg" alt="Snake animation" />
 
 </div>
 
