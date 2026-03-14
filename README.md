@@ -138,11 +138,8 @@ Inventory and finance management system for hair processing business.
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github.com/hasib61714/hasib61714/blob/output/github-contribution-grid-snake.svg">
-
+<img src="https://raw.githubusercontent.com/hasib61714/hasib61714/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 # 🌍 Dynamic Portfolio Sync
