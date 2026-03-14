@@ -125,11 +125,11 @@ Inventory and finance management system for hair processing business.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasib61714&theme=tokyonight">
+<img src="https://github-profile-trophy.vercel.app/?username=hasib61714&theme=tokyonight&no-frame=true&row=1&column=7">
 
 </p>
 
