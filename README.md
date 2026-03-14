@@ -182,7 +182,7 @@ No activity tracked
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasib61714&theme=tokyonight&no-frame=true&column=7&margin-w=6&no-bg=true" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=hasib61714&theme=tokyonight&no-frame=true&column=7&margin-w=6" width="100%"/>
 
 </div>
 
