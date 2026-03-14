@@ -120,6 +120,28 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 
 <br/>
 
+<!-- ═══════════════════ WAKATIME ═══════════════════ -->
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hasib61714&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&icon_color=6E40C9&border_radius=12&layout=compact&langs_count=10" width="70%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:A855F7&height=3&section=header" width="100%"/>
+
+<br/>
+
 <!-- ═══════════════════ 3D CONTRIBUTION GRAPH ═══════════════════ -->
 ## 🌐 3D Contribution Calendar
 
