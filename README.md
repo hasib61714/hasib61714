@@ -160,6 +160,26 @@ Inventory and finance management system for hair processing business.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+---
+## 🚀 Top Projects
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hasib61714&repo=hasibul-portfolio-v5&theme=tokyonight)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hasib61714&repo=Fake-News-Detector&theme=tokyonight)
+---
+## 💡 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+## 👀 Profile Stats
+
+![Visitors](https://komarev.com/ghpvc/?username=hasib61714&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/hasib61714?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/hasib61714?style=social)
+---
+
 
 # 🌐 Connect With Me
 
