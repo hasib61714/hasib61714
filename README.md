@@ -136,11 +136,13 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2026 - To: 13 March 2026
+From: 07 March 2026 - To: 14 March 2026
 
-Total Time: 0 secs
+Total Time: 53 mins
 
-No activity tracked
+Markdown   20 mins               █████████▓░░░░░░░░░░░░░░░   39.17 %
+YAML       19 mins               █████████░░░░░░░░░░░░░░░░   36.19 %
+HTML       13 mins               ██████░░░░░░░░░░░░░░░░░░░   24.64 %
 ```
 
 <!--END_SECTION:waka-->
