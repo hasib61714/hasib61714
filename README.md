@@ -136,20 +136,20 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
-Total Time: 16 hrs 32 mins
+Total Time: 15 hrs 5 mins
 
-Python       6 hrs 13 mins         ███████░░░░░░░░░░░░░░░░░░   28.48 %
-Other        5 hrs 19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-TypeScript   3 hrs 39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-JavaScript   1 hr 38 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Bash         1 hr 19 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Text         43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Markdown     41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-SQL          41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Git          39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JSON         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python       6 hrs 13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+Other        5 hrs 1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+TypeScript   3 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Bash         1 hr 18 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JavaScript   50 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Markdown     41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+SQL          40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Git          39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Text         31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+JSON         18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
