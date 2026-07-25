@@ -136,16 +136,16 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 23 July 2026
+From: 17 July 2026 - To: 24 July 2026
 
-Total Time: 34 hrs 17 mins
+Total Time: 25 hrs 59 mins
 
-HTML         20 hrs 55 mins        ███████████████░░░░░░░░░░   60.35 %
-JavaScript   6 hrs 38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-Markdown     4 hrs 51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Python       1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Text         41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Other        22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+HTML         16 hrs 44 mins        ████████████████░░░░░░░░░   63.46 %
+Markdown     5 hrs 12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+JavaScript   1 hr 51 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Python       1 hr 25 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Text         46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other        22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
