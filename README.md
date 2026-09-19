@@ -136,19 +136,19 @@ Languages: Bengali · English · Hindi · Urdu · Chinese · Japanese
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Total Time: 81 hrs 8 mins
+Total Time: 80 hrs 49 mins
 
-TypeScript    32 hrs 45 mins        █████████▓░░░░░░░░░░░░░░░   39.17 %
-Python        16 hrs 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-Markdown      9 hrs 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Text          5 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-SQL           5 hrs 47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-JavaScript    5 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Bash          3 hrs 37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Other         2 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-TeX           19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript    33 hrs 16 mins        ██████████░░░░░░░░░░░░░░░   39.90 %
+Python        16 hrs 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Markdown      8 hrs 33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Text          6 hrs 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+SQL           6 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+JavaScript    5 hrs 19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Bash          2 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Other         2 hrs 33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+TeX           19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 JSON          19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
